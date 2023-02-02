@@ -10,7 +10,7 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
-![](https://media.giphy.com/media/wwT3nVMj3MUXh3VQAg/giphy.gif)
+![](https://s3.gifyu.com/images/2023-02-02-09-25-15-2.gif)
 
 # Serverless Framework Node HTTP API on AWS
 
